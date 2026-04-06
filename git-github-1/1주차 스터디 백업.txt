@@ -1,0 +1,50 @@
+﻿Download unity
+
+
+* unity hub
+* latest unity 
+* VS code
+
+
+What is Unity?
+* visual interface for creating games
+* Systems of existing code we can use(physics, rendering,audio,etc)
+
+
+What is Visual Code Studio?
+* Helps us write code and tell what to do to the engine
+* Auto complete, colour coding, syntax error checking.
+
+
+Code we write is saved in the Script, which is .cs file
+
+
+
+
+Messing around with Unity
+* Layout set up ->  Window -> Layouts
+
+
+Hierarchy
+* where game objects sleep 
+
+
+Inspector 
+* components 
+* Camera does not have a sprite, because it is not a sprite 
+* Sprite Renderer
+   * make visible
+   * order in layer
+      * higher = top 
+* Sprite
+   * is a 2D graphic object obtained from a bitmap image
+
+
+Project
+* Saved in our hard drive
+* SampeScene
+* Assets 
+
+
+Game view
+* What camera is viewing
